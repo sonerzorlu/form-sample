@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+    }
+    header{
+        padding: 20px ;
+        background-color: red;
+        color: white;
+        font-size: 40px;
+    }
+    nav{
+    background-color: #bc6bfa;
+    padding: 20PX;
+    font-size: 20px;
+    color: aliceblue;
+    }
+    nav a {
+    color: aliceblue; 
+    text-decoration: none;
+    }
+    nav a:hover{
+        text-decoration: underline;
+    }
+    h2{
+        margin-top: 20px;
+    }
+    figcaption{
+        margin-bottom: 30px;
+    }
+    footer{
+    background-color: rgba(0, 0, 0, 0.915);
+    padding: 20px;
+    color: white;
+    }
