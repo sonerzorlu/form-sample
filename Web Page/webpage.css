@@ -23,15 +23,16 @@
   
   header .sign-in {
     float: right;
-    color: #625a5a;
+    color: #000000;
     padding-top: 1.7rem;
     padding-right: 0.5rem;
+    font-weight: 900;
   }
   
   header .sign-in a {
-    color: #920101;
+    color: #23ee48;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 900;
     font-size: large;
   }
   
@@ -115,6 +116,12 @@
     padding: 2rem;
     text-align: justify;
     background-color: #d9afd9;
+  }
+  main p::first-line{
+    font-size: larger;
+
+    
+    
   }
   
   /*! SLACK ICON */
